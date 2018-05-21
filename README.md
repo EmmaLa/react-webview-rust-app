@@ -23,4 +23,5 @@ That command bundle the Javascript code after that you can run the following com
 ```
 cargo run
 ```
-https://imgur.com/ygJYZ6R
+
+<p align="center"><img alt="screenshot" src="https://i.imgur.com/ygJYZ6R.jpg"></p>
