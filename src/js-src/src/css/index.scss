@@ -1,0 +1,25 @@
+#todo-input {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.todo-item{
+    font-size: 20px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.marked{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.38);
+}
+
+.delete-task-btn{
+    text-align: center;
+}
+
+.delete-task-btn{
+    position: fixed;
+    top: 400px;
+    left: 70px;
+}
